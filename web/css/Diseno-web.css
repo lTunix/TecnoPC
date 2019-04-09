@@ -1,0 +1,190 @@
+body {
+  background-image: url("../imagenes/4E8.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+        color: blue;
+}
+
+a:hover {
+	color:#03F;}
+	
+h3 {
+	font-size:15px;}
+	
+#campocontacto {
+	resize:none;	
+}
+
+h4 {
+	font-size: 30px;
+	color:#000000;
+}
+
+
+#global {
+ width:800px; height:800px;
+ margin: 0 auto 0 auto;
+}
+#cabecera {
+ width:800px;
+ height: 290px;
+ background-image: url("../imagenes/Banner TecnoPc.png");
+ background-size: 800px 290px;
+ margin: 0 auto 0 auto;
+ box-shadow: 5px 5px #cccccc;
+ border-radius: 20px;
+
+}
+#navegacion {
+ width:780px;
+ margin: 20px auto 20px auto;
+ background-color: rgba(134, 135, 132, 0.3);
+ padding: 15px 10px;
+ font-family: "arial";
+ font-weight: bolder;
+ border-radius: 20px;
+ border: 1px solid black;
+ text-align: center;
+}
+
+
+#navegacion ul li {
+	display:inline;
+	margin: 0px 5px;
+	border: 1px solid rgba(153,148,147,0.5);;
+	border-radius: 5px;
+        background-color: rgba(134,135,132, 0.7);
+        box-shadow: 2px 2px #000000;
+}
+
+#login {
+	font-family: "arial";
+	border-radius: 20px;
+	padding: 10px 10px;	
+	width:500px;
+	background-image:url(../imagenes/fondo3.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  auto ;
+	float:right;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px; 
+}
+
+#registro {
+	font-family: "arial";
+	border-radius: 20px;
+	padding: 10px 10px;	
+	width:600px;
+	background-image:url(../imagenes/fondo3.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  auto;
+	float:right;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px;  
+}
+
+#principal {
+ width:640px;
+ margin: 0 auto 0 auto;
+ /*background-color: #ffCD68;*/
+ float: left;
+ padding-left:10px;
+}
+
+#pie {
+ width:800px;
+ margin: 0 auto 0 auto;
+ background-color: #3dcaa7;
+ float: left;
+ padding: 10px;
+ border-radius: 20px;
+}
+
+
+
+.titulos {
+	margin-top: 10px;
+}
+
+#productos {
+    font-family: "arial";
+    
+	padding: 10px 10px;	
+	width:800px;
+	background-image:url(../imagenes/fondo3.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  10px;
+	text-align: center;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px;  
+}
+
+#usuarios {
+    font-family: "arial";
+    font-size: 13px;
+	border-radius: 20px;
+	padding: 10px 10px;	
+	width:600px;
+	background-image:url(../imagenes/fondo2.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  auto;
+	text-align: center;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px;  
+}
+
+#respuestas {
+    font-family: "arial";
+    
+	padding: 10px 10px;	
+	width:700px;
+	background-image:url(../imagenes/fondo2.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  10px;
+	text-align: center;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px;  
+}
+
+#Foro{
+	font-family: "arial";
+    
+	padding: 10px 10px;	
+	width:800px;
+	background-image:url(../imagenes/fondo3.jpg);
+	background-size:contain;
+	font-weight:bold;
+	box-shadow: 5px 5px black;
+	margin: 25px  10px;
+	text-align: center;
+	color:white;
+	-webkit-text-fill-color: black;
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 0.20px;  
+}
